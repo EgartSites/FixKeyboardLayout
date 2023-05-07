@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixKeyboardLayout", "FixKeyboardLayout.csproj", "{51F0C260-8E0C-4E44-95F2-7D111A436D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F0C260-8E0C-4E44-95F2-7D111A436D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F0C260-8E0C-4E44-95F2-7D111A436D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F0C260-8E0C-4E44-95F2-7D111A436D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F0C260-8E0C-4E44-95F2-7D111A436D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDB7B05-FEE9-4AA3-AA08-D7EDF540E808}
+	EndGlobalSection
+EndGlobal
